@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mikelelex
-- 👀 I’m interested in programming, psychology and human resources
-- 🌱 I’m currently doing a Fullstack Bootcamp
+- 👀 I’m interested in programming, psychology and human resources. 
+- 💼 I'm currently working as an IT recruiter.
+- 🌱 I'm also doing a Bootcamp to become a Fullstack Developer.
 - 📫 How to reach me [https://www.linkedin.com/in/mikelruizelexpe/]
 
 <!---
